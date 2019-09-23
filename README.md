@@ -1,4 +1,4 @@
 # screenshot-selenium-chrome-driver
 
 ## Command:
-"http://es.wikipedia.org" body screenshot.png
+java -jar ("file name").jar "http://es.wikipedia.org" body screenshot.png
